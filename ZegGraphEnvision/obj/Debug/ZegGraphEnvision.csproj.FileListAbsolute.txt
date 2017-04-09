@@ -1,0 +1,142 @@
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.csprojResolveAssemblyReference.cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZedGraph.ZedGraphControl.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.tw.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.de.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.es.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.fr.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.hu.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.it.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.ja.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.pt.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.ru.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.sk.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.sv.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.tr.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.zh-cn.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.zh-tw.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.csproj.GenerateResource.Cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\ZegGraphEnvision.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\ZegGraphEnvision.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\de\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\es\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\fr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\hu\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\it\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\ja\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\pt\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\ru\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\sk\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\sv\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\tr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\zh-cn\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\bin\Debug\zh-tw\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\de\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\es\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\fr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\hu\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\it\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ja\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\pt\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ru\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\sk\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\sv\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\tr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\zh-cn\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\zh-tw\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZedGraph\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\ZegGraphEnvision.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\ZegGraphEnvision.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\de\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\es\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\fr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\hu\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\it\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\ja\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\pt\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\ru\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\sk\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\sv\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\tr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\zh-cn\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\zh-tw\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZedGraph.ZedGraphControl.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.tw.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.de.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.es.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.fr.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.hu.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.it.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.ja.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.pt.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.ru.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.sk.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.sv.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.tr.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.zh-cn.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.zh-tw.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.csproj.GenerateResource.Cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\de\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\es\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\fr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\hu\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\it\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ja\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\pt\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ru\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\sk\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\sv\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\tr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\zh-cn\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\zh-tw\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.pdb
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\ZegGraphEnvision.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\ZegGraphEnvision.pdb
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\de\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\es\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\fr\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\hu\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\it\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\ja\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\pt\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\ru\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\sk\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\sv\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\tr\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\zh-cn\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\bin\Debug\zh-tw\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZedGraph.ZedGraphControl.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.tw.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.de.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.es.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.fr.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.hu.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.it.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.ja.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.pt.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.ru.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.sk.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.sv.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.tr.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.zh-cn.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.ZedGraph.ZedGraphLocale.zh-tw.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.csproj.GenerateResource.Cache
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\de\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\es\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\fr\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\hu\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\it\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ja\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\pt\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ru\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\sk\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\sv\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\tr\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\zh-cn\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\zh-tw\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\ZegGraphEnvision\obj\Debug\ZegGraphEnvision.pdb

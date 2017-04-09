@@ -1,0 +1,55 @@
+\\Vboxsvr\мои_программы\SGTViewer\SGTViewer\bin\Debug\SGTViewer.exe.config
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTViewer.exe.config
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTViewer.exe
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTViewer.pdb
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTReader.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTReader.pdb
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.csprojResolveAssemblyReference.cache
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.MainForm.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.Properties.Resources.resources
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.csproj.GenerateResource.Cache
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.exe
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTViewer.exe.config
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTViewer.exe
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTViewer.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTReader.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SGTReader.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.csprojResolveAssemblyReference.cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.MainForm.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.Properties.Resources.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.csproj.GenerateResource.Cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.exe
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\obj\Debug\SGTViewer.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\ZegGraphEnvision.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\ZegGraphEnvision.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\de\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\es\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\fr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\hu\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\it\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\ja\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\pt\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\ru\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\sk\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\sv\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\tr\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\zh-cn\ZegGraphEnvision.resources.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\zh-tw\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\ZegGraphEnvision.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\ZegGraphEnvision.pdb
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\de\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\es\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\fr\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\hu\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\it\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\ja\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\pt\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\ru\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\sk\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\sv\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\tr\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\zh-cn\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\zh-tw\ZegGraphEnvision.resources.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SourceGrid.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTViewer\bin\Debug\SourceGrid.xml

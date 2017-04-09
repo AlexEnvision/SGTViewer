@@ -1,0 +1,74 @@
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\bin\x86\Debug\SourceGrid.dll
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\bin\x86\Debug\SourceGrid.pdb
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\bin\x86\Debug\SourceGrid.xml
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Properties.Resources.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ButtonMultiSelection.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ColorPicker.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DevAgeNumericUpDown.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DevAgeTextBoxButton.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DropDown.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DropDownButton.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.EditableControlBase.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ErrorDialog.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ErrorDialogDetails.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.FormBase.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ImageNavigator.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.Line.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.LinkLabel.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.TextBoxUITypeEditor.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\SourceGrid.DataGrid.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\SourceGrid.ListEditor.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\SourceGrid.Planning.PlanningGrid.resources
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\SourceGrid.csproj.GenerateResource.Cache
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\SourceGrid.dll
+C:\Users\Envision\Desktop\SourceGrid_4_40_src\SourceGrid\obj\x86\Debug\SourceGrid.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\bin\x86\Debug\SourceGrid.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\bin\x86\Debug\SourceGrid.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\bin\x86\Debug\SourceGrid.xml
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.csprojResolveAssemblyReference.cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Properties.Resources.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ButtonMultiSelection.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ColorPicker.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DevAgeNumericUpDown.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DevAgeTextBoxButton.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DropDown.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DropDownButton.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.EditableControlBase.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ErrorDialog.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ErrorDialogDetails.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.FormBase.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ImageNavigator.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.Line.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.LinkLabel.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.TextBoxUITypeEditor.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.DataGrid.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.ListEditor.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.Planning.PlanningGrid.resources
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.csproj.GenerateResource.Cache
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.pdb
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\bin\x86\Debug\SourceGrid.dll
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\bin\x86\Debug\SourceGrid.pdb
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\bin\x86\Debug\SourceGrid.xml
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.csprojResolveAssemblyReference.cache
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Properties.Resources.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ButtonMultiSelection.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ColorPicker.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DevAgeNumericUpDown.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DevAgeTextBoxButton.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DropDown.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.DropDownButton.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.EditableControlBase.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ErrorDialog.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ErrorDialogDetails.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.FormBase.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.ImageNavigator.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.Line.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.LinkLabel.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\DevAge.Windows.Forms.TextBoxUITypeEditor.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.DataGrid.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.ListEditor.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.Planning.PlanningGrid.resources
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.csproj.GenerateResource.Cache
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.dll
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SourceGrid\obj\x86\Debug\SourceGrid.pdb

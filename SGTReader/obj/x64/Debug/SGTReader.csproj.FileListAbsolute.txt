@@ -1,0 +1,8 @@
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTReader\bin\x64\Debug\SGTReader.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTReader\bin\x64\Debug\SGTReader.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTReader\obj\x64\Debug\SGTReader.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTReader\obj\x64\Debug\SGTReader.pdb
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SGTReader\bin\x64\Debug\SGTReader.dll
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SGTReader\bin\x64\Debug\SGTReader.pdb
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SGTReader\obj\x64\Debug\SGTReader.dll
+C:\Users\Envision\Desktop\Чтение SGT - файлов\SGTViewer\SGTReader\obj\x64\Debug\SGTReader.pdb

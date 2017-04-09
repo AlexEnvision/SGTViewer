@@ -1,0 +1,8 @@
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTReader\bin\Debug\SGTReader.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTReader\bin\Debug\SGTReader.pdb
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTReader\obj\Debug\SGTReader.dll
+\\Vboxsvr\мои_программы\Чтение SGT - файлов\SGTViewer\SGTReader\obj\Debug\SGTReader.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTReader\bin\Debug\SGTReader.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTReader\bin\Debug\SGTReader.pdb
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTReader\obj\Debug\SGTReader.dll
+F:\ПРИЛОЖЕНИЯ НА С Sharp\МОИ ПРОГРАММЫ\Чтение SGT - файлов\SGTViewer\SGTReader\obj\Debug\SGTReader.pdb
